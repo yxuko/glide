@@ -42,7 +42,8 @@
       "require": "./dist/glide.js",
       "default": "./dist/glide.esm.js"
     },
-    "./dist/*": "./dist/*"
+    "./dist/*": "./dist/*",
+    "./src/*": "./src/*"
   },
   "type": "module",
   "devDependencies": {
